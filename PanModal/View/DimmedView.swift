@@ -5,7 +5,6 @@
 //  Copyright © 2017 Tiny Speck, Inc. All rights reserved.
 //
 
-#if os(iOS)
 import UIKit
 
 /**
@@ -73,4 +72,3 @@ public class DimmedView: UIView {
     }
 
 }
-#endif

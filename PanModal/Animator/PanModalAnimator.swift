@@ -5,7 +5,6 @@
 //  Copyright © 2019 Tiny Speck, Inc. All rights reserved.
 //
 
-#if os(iOS)
 import UIKit
 
 /**
@@ -37,4 +36,3 @@ struct PanModalAnimator {
                        completion: completion)
     }
 }
-#endif

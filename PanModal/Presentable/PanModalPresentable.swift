@@ -5,7 +5,6 @@
 //  Copyright © 2017 Tiny Speck, Inc. All rights reserved.
 //
 
-#if os(iOS)
 import UIKit
 
 /**
@@ -234,4 +233,3 @@ public protocol PanModalPresentable: AnyObject {
      */
     func panModalDidDismiss()
 }
-#endif

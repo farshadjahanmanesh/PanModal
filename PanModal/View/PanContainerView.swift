@@ -5,7 +5,6 @@
 //  Copyright © 2018 Tiny Speck, Inc. All rights reserved.
 //
 
-#if os(iOS)
 import UIKit
 
 /**
@@ -41,4 +40,3 @@ extension UIView {
     }
 
 }
-#endif

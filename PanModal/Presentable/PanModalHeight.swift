@@ -5,7 +5,6 @@
 //  Copyright © 2019 Tiny Speck, Inc. All rights reserved.
 //
 
-#if os(iOS)
 import UIKit
 
 /**
@@ -41,4 +40,3 @@ public enum PanModalHeight: Equatable {
      */
     case intrinsicHeight
 }
-#endif
